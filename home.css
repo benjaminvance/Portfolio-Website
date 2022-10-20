@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.project-img {
+    max-width: 60%;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+#main {
+    margin-top: 30%;
+    margin-bottom: 40%;
+}
+
+section {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.heading {
+    text-align: center;
+}
+
+.contact-link {
+    text-align: center;
+}
